@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "notion": {
+      "command": "npx",
+      "args": [
+        "tsx",
+        "C:/Users/mesha/.gemini/antigravity-ide/scratch/notion-local-mcp/src/index.ts"
+      ],
+      "env": {
+        "NOTION_API_KEY": "ntn_your_notion_internal_integration_token_here"
+      }
+    }
+  }
+}
